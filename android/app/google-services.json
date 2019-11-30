@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "785004172597",
+    "firebase_url": "https://trial-362bf.firebaseio.com",
+    "project_id": "trial-362bf",
+    "storage_bucket": "trial-362bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785004172597:android:25d75389250b16982e287c",
+        "android_client_info": {
+          "package_name": "com.example.medisent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785004172597-gj272muqk42k65aisidp63rcep5i30t7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpP3-FEok1YtGNemPLQ7bDbyMhrgSeN70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785004172597-gj272muqk42k65aisidp63rcep5i30t7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
