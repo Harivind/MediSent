@@ -1,3 +1,3 @@
-# medisent
+# MediSent
 
 A platform to donate medicines
